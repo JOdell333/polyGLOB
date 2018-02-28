@@ -22,7 +22,7 @@
 using namespace std;
 
 #define ONE26TH (3.846)
-
+//Creates comments for program
 const string polyGLOB::kMYSTERY = "??";
 const string polyGLOB::kENGLISH = "en";
 const string polyGLOB::kFRENCH = "fr";
